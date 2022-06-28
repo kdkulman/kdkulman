@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Kevin Kulman, a 4th year CS Major minoring in Math at UW-T!
-- 👀 Passionate about software dev, game dev, competitive programming, video games (Zelda, Final Fantasy etc.) story writing, brazilian jiu jitsu
+👋 Hi, I’m Kevin Kulman, a 4th year CS Major minoring in Math at UW-T!
 
-- 🌱 Currently finishing a mobile Android game: Cat Conveyor: Survive 10 levels of sorting cats coming down a conveyor belt.
+👀 Passionate about software dev, game dev, competitive programming, video games (Zelda, Final Fantasy etc.) story writing, brazilian jiu jitsu
+
+🌱 Currently finishing a mobile Android game: Cat Conveyor: Survive 10 levels of sorting cats coming down a conveyor belt.
 
 💞️ I’m open to work as a software or game developer.
 
