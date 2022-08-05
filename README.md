@@ -3,9 +3,9 @@
 👀 Passionate about software dev, game dev, competitive programming, team programming projects, video games (Zelda, Final Fantasy, Xenoblade, etc.) story writing, lifting, brazilian jiu jitsu
 
 🌱 Current Projects 🌱
-    🌱 Finishing a mobile Android game, Cat Conveyor: Survive 10 levels of sorting cats coming down a conveyor belt
-    
-    🌱 Learning C++ and Unreal Engine  
+
+   🌱 Finishing a mobile Android game, Cat Conveyor: Survive 10 levels of sorting cats coming down a conveyor belt 
+   🌱 Learning C++ and Unreal Engine  
 
 💞️ I’m pursuing a career as a software developer!
 
