@@ -4,7 +4,7 @@
 
 🌱 Current Project 🌱
 
-   *🌱 Finishing a mobile Android game, Cat Conveyor: Survive 10 levels of sorting cats coming down a conveyor belt 
+   * 🌱 Finishing a mobile Android game, Cat Conveyor: Survive 10 levels of sorting cats coming down a conveyor belt 
 
 💞️ I’m pursuing a career as a software developer!
 
