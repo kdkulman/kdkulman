@@ -4,7 +4,7 @@
 
 🌱 Current Project 🌱
 
-   * Building a custom Shopify Shop for my wife's art business!
+Building a custom Shopify Shop for my wife's art business!
 
 - 📫 Collaboration/business interest contact me  ----> kdkulman@gmail.com 
 
