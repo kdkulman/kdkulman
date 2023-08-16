@@ -1,10 +1,10 @@
 👋 Hi, I’m Kevin Kulman, a 4th year CS Major minoring in Mathematics at the University of Washington
 
-👀 Passionate about software development, machine learning, game development, competitive programming, story writing, brazilian jiu jitsu
+👀 Passionate about software development, game development, competitive programming, story writing, brazilian jiu jitsu
 
 🌱 Current Project 🌱
 
-   * Seeking Software Engineering positions
+   * Building a custom Shopify Shop for my wife's art business!
 
 - 📫 Collaboration/business interest contact me  ----> kdkulman@gmail.com 
 
