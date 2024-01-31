@@ -1,4 +1,4 @@
-👋 Hi, I’m Kevin Kulman, a 4th year CS Major minoring in Mathematics at the University of Washington
+👋 Hi, I’m Kevin Kulman, professional software engineer and solo game developer
 
 👀 Passionate about software development, game development, competitive programming, story writing, brazilian jiu jitsu
 
