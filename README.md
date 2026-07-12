@@ -1,4 +1,4 @@
-$5mil by 2030 
+beef by 2030 
 
 <!---
 kdkulman/kdkulman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
